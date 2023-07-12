@@ -1,0 +1,238 @@
+.header-main{
+display: flex;
+
+width: 1920px;
+height: 850px;
+background: rgba(229, 84, 115, 0.10);
+justify-content: space-between;
+padding-right: 200px;
+
+}
+.header-elements{
+    margin-left: 240px;
+    margin-top: 195px;
+}
+.header-first-text{
+    text-shadow: 2px 2px;
+    display: flex;
+width: 708px;
+flex-direction: column;
+color: #272727;
+font-family: Lato;
+font-size: 80px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+
+
+}
+.header-paragraph{
+    display: flex;
+width: 634px;
+flex-direction: column;
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+
+}
+.header-button
+
+{
+    display: inline-flex;
+padding: 20px 43px;
+align-items: flex-start;
+gap: 10px;
+border-radius: 8px;
+background: #E55473;
+color: #FFF;
+font-family: Lato;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-bottom: 147px;
+}
+.first-flower{
+    margin-top: 50px;
+    margin-right: 240px; 
+     box-shadow: 100px; 
+    width: 635px;
+    height: 800px;
+}
+
+/* main part for bonnus */
+.featured-flowers{
+    
+    
+    
+   
+
+}
+.flower-head-paragraph{
+    text-align: center;
+    margin-left: 240px;
+    margin-right: 240px;
+    margin-top: 178px;
+}
+.featured-flower-text{
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+
+}
+.featured-flower-paragraph{
+    
+
+    
+    text-align: center;
+    
+
+    
+    font-weight: 400;
+    line-height: 30px;
+
+
+color: rgba(39, 39, 39, 0.60);
+
+font-family: Lato;
+font-size: 18px;
+
+}
+.images{
+    list-style-type: none; /* Remove bullets */
+padding: 10px; /* Remove padding */
+margin: 0px; /* Remove margins */
+    display: flex;
+text-align: justify;
+    
+    max-width: 100%;
+    
+    justify-content: center;
+
+}
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 200px;
+}
+
+.li1{
+    width: 464px;
+height: 538px;
+
+    border-radius: 300px 300px 0px 0px;
+background: rgba(167, 33, 98, 0.15);
+}
+.li2{width: 464px;
+    height: 538px;
+    
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+}
+.li3{width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+}
+.off{
+    color:#E55473
+}
+.deal {
+    display: flex;
+    
+    width: 1922px;
+    height: 620px;
+    
+    justify-content: space-between;
+    
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    text-align: center;
+}
+.deal-elements{
+    margin-left: 240px;
+    margin-top: 195px;
+}
+.deal-text{
+    color: #272727;
+font-family: Lato;
+font-size: 40px;
+
+font-weight: 800;
+
+}
+.deal-paragraph{
+  
+ 
+    color: rgba(39, 39, 39, 0.60);
+
+font-family: Lato;
+font-size: 18px;
+
+font-weight: 400;
+line-height: 30px;
+}
+.deal-flower{
+    margin-top: 50px;
+    margin-right: 240px; 
+    width: 318px;
+height: 420px;
+}
+.instagram{
+    margin-left: 240px;
+    margin-right: 240px;
+    margin-top: 178px;
+}
+.instagram-main{
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 0;
+    text-decoration: underline;
+}
+.instagram ul{
+    display: flex;
+    justify-content: center;
+
+}
+.instagram li{
+    list-style: none;
+    margin: 10px;
+}
+.latest-deal{
+    width: 1440px;
+    height: 449px;
+    border-radius: 8px;
+    margin:auto;
+background-image: url('../images/Flower Asset/Rectangle 9.png');
+    
+    
+}
+.latest-deal ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    justify-content: center;
+    border-radius: 8px;
+    
+}
+.flower-shop{
+    width: 1922px;
+height: 449px;
+background: #111010;
+    text-align: center;
+    font-size: 30px;
+    
+    margin-bottom: 0;
+
+}
+.work-main{
+    text-align: center;
+    background-color: #E55473;
+}
